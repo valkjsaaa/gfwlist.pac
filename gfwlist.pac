@@ -4,6 +4,7 @@
 var proxy = "SOCKS5 127.0.0.1:1080;";
 
 var domains = {
+  "login.live.com":1,
   "www.tldp.org":1,
   "blogspot.com":1,
   "login.live.com": 1,
